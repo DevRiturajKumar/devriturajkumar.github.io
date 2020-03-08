@@ -1,0 +1,1115 @@
+div#container
+{
+   width: 1366px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #66CDAA;
+   background-image: url(images/index_bkgrnd.png);
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2
+{
+   color: #000000;
+   font-family: "Comic Sans MS";
+   font-weight: normal;
+   font-size: 21px;
+   line-height: 30px;
+}
+#wb_Text2 p, #wb_Text2 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image3
+{
+   vertical-align: top;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image4
+{
+   vertical-align: top;
+}
+#Image4
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image5
+{
+   vertical-align: top;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image6
+{
+   vertical-align: top;
+}
+#Image6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text3 div
+{
+   text-align: center;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4
+{
+   color: #000000;
+   font-family: "Comic Sans MS";
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 22.5px;
+}
+#wb_Text4 p, #wb_Text4 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image7
+{
+   vertical-align: top;
+}
+#Image7
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image8
+{
+   vertical-align: top;
+}
+#Image8
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image9
+{
+   vertical-align: top;
+}
+#Image9
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image10
+{
+   vertical-align: top;
+}
+#Image10
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image11
+{
+   vertical-align: top;
+}
+#Image11
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image12
+{
+   vertical-align: top;
+}
+#Image12
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text5 div
+{
+   text-align: center;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6
+{
+   color: #000000;
+   font-family: "Comic Sans MS";
+   font-weight: normal;
+   font-size: 21px;
+   line-height: 30px;
+}
+#wb_Text6 p, #wb_Text6 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image13
+{
+   vertical-align: top;
+}
+#Image13
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image14
+{
+   vertical-align: top;
+}
+#Image14
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image15
+{
+   vertical-align: top;
+}
+#Image15
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image16
+{
+   vertical-align: top;
+}
+#Image16
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image17
+{
+   vertical-align: top;
+}
+#Image17
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image18
+{
+   vertical-align: top;
+}
+#Image18
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image19
+{
+   vertical-align: top;
+}
+#Image19
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image20
+{
+   vertical-align: top;
+}
+#Image20
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image21
+{
+   vertical-align: top;
+}
+#Image21
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image22
+{
+   vertical-align: top;
+}
+#Image22
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image23
+{
+   vertical-align: top;
+}
+#Image23
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image24
+{
+   vertical-align: top;
+}
+#Image24
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image21
+{
+   position: absolute;
+   left: 66px;
+   top: 366px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 26;
+}
+#wb_Image10
+{
+   position: absolute;
+   left: 188px;
+   top: 551px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   z-index: 13;
+}
+#wb_Image22
+{
+   position: absolute;
+   left: 67px;
+   top: 423px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   z-index: 27;
+}
+#wb_Image11
+{
+   position: absolute;
+   left: 267px;
+   top: 552px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 14;
+}
+#wb_Text1
+{
+   position: absolute;
+   left: 0px;
+   top: 21px;
+   width: 1366px;
+   height: 119px;
+   text-align: center;
+   z-index: 0;
+}
+#wb_Image23
+{
+   position: absolute;
+   left: 69px;
+   top: 490px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 28;
+}
+#wb_Image12
+{
+   position: absolute;
+   left: 332px;
+   top: 552px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 15;
+}
+#wb_Text2
+{
+   position: absolute;
+   left: 648px;
+   top: 162px;
+   width: 522px;
+   height: 357px;
+   z-index: 1;
+}
+#wb_Image24
+{
+   position: absolute;
+   left: 66px;
+   top: 556px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 29;
+}
+#wb_Image13
+{
+   position: absolute;
+   left: 64px;
+   top: 166px;
+   width: 344px;
+   height: 348px;
+   visibility: hidden;
+   z-index: 18;
+}
+#wb_Text3
+{
+   position: absolute;
+   left: 0px;
+   top: 31px;
+   width: 970px;
+   height: 86px;
+   visibility: hidden;
+   text-align: center;
+   z-index: 8;
+}
+#wb_Image1
+{
+   position: absolute;
+   left: 284px;
+   top: 166px;
+   width: 344px;
+   height: 348px;
+   z-index: 2;
+}
+#wb_Image14
+{
+   position: absolute;
+   left: 333px;
+   top: 156px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   z-index: 19;
+}
+#wb_Text4
+{
+   position: absolute;
+   left: 423px;
+   top: 201px;
+   width: 522px;
+   height: 357px;
+   visibility: hidden;
+   z-index: 9;
+}
+#wb_Image2
+{
+   position: absolute;
+   left: 284px;
+   top: 521px;
+   width: 56px;
+   height: 56px;
+   z-index: 3;
+}
+#wb_Image15
+{
+   position: absolute;
+   left: 400px;
+   top: 155px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 20;
+}
+#wb_Text5
+{
+   position: absolute;
+   left: 0px;
+   top: 21px;
+   width: 1366px;
+   height: 119px;
+   visibility: hidden;
+   text-align: center;
+   z-index: 16;
+}
+#wb_Image3
+{
+   position: absolute;
+   left: 355px;
+   top: 520px;
+   width: 57px;
+   height: 57px;
+   z-index: 4;
+}
+#wb_Image16
+{
+   position: absolute;
+   left: 476px;
+   top: 154px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   z-index: 21;
+}
+#wb_Text6
+{
+   position: absolute;
+   left: 494px;
+   top: 377px;
+   width: 522px;
+   height: 357px;
+   visibility: hidden;
+   z-index: 17;
+}
+#wb_Image4
+{
+   position: absolute;
+   left: 427px;
+   top: 519px;
+   width: 58px;
+   height: 58px;
+   z-index: 5;
+}
+#wb_Image17
+{
+   position: absolute;
+   left: 555px;
+   top: 155px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 22;
+}
+#wb_Image5
+{
+   position: absolute;
+   left: 502px;
+   top: 520px;
+   width: 56px;
+   height: 57px;
+   z-index: 6;
+}
+#wb_Image18
+{
+   position: absolute;
+   left: 620px;
+   top: 155px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 23;
+}
+#wb_Image6
+{
+   position: absolute;
+   left: 571px;
+   top: 520px;
+   width: 57px;
+   height: 57px;
+   z-index: 7;
+}
+#wb_Image19
+{
+   position: absolute;
+   left: 56px;
+   top: 99px;
+   width: 199px;
+   height: 199px;
+   visibility: hidden;
+   z-index: 24;
+}
+#wb_Image7
+{
+   position: absolute;
+   left: 45px;
+   top: 201px;
+   width: 344px;
+   height: 348px;
+   visibility: hidden;
+   z-index: 10;
+}
+#wb_Image8
+{
+   position: absolute;
+   left: 45px;
+   top: 553px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   z-index: 11;
+}
+#wb_Image9
+{
+   position: absolute;
+   left: 112px;
+   top: 552px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   z-index: 12;
+}
+#wb_Image20
+{
+   position: absolute;
+   left: 67px;
+   top: 298px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   z-index: 25;
+}
+@media only screen and (max-width: 768px)
+{
+div#container
+{
+   width: 360px;
+}
+body
+{
+   background-color: #66CDAA;
+   background-image: url(images/index_bkgrnd360.png);
+}
+#wb_Text1
+{
+   left: 0px;
+   top: 31px;
+   width: 970px;
+   height: 86px;
+   visibility: hidden;
+   display: none;
+}
+#wb_Text1
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text2
+{
+   left: 423px;
+   top: 201px;
+   width: 522px;
+   height: 357px;
+   visibility: hidden;
+   display: none;
+}
+#wb_Text2
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image1
+{
+   left: 45px;
+   top: 201px;
+   width: 344px;
+   height: 348px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image2
+{
+   left: 45px;
+   top: 553px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image3
+{
+   left: 112px;
+   top: 552px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image4
+{
+   left: 188px;
+   top: 551px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image5
+{
+   left: 267px;
+   top: 552px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image6
+{
+   left: 332px;
+   top: 552px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3
+{
+   left: 0px;
+   top: 3px;
+   width: 360px;
+   height: 42px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Text3
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4
+{
+   left: 20px;
+   top: 442px;
+   width: 321px;
+   height: 290px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Text4
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image7
+{
+   left: 20px;
+   top: 45px;
+   width: 321px;
+   height: 321px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image8
+{
+   left: 20px;
+   top: 372px;
+   width: 60px;
+   height: 60px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image9
+{
+   left: 85px;
+   top: 373px;
+   width: 60px;
+   height: 60px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image10
+{
+   left: 150px;
+   top: 373px;
+   width: 60px;
+   height: 60px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image11
+{
+   left: 216px;
+   top: 373px;
+   width: 60px;
+   height: 60px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image12
+{
+   left: 281px;
+   top: 373px;
+   width: 60px;
+   height: 60px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text5
+{
+   left: 0px;
+   top: 21px;
+   width: 1366px;
+   height: 119px;
+   visibility: hidden;
+   display: none;
+}
+#wb_Text5
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text6
+{
+   left: 494px;
+   top: 377px;
+   width: 522px;
+   height: 357px;
+   visibility: hidden;
+   display: none;
+}
+#wb_Text6
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Image13
+{
+   left: 64px;
+   top: 166px;
+   width: 344px;
+   height: 348px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image14
+{
+   left: 333px;
+   top: 156px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image15
+{
+   left: 400px;
+   top: 155px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image16
+{
+   left: 476px;
+   top: 154px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image17
+{
+   left: 555px;
+   top: 155px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image18
+{
+   left: 620px;
+   top: 155px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image19
+{
+   left: 56px;
+   top: 99px;
+   width: 199px;
+   height: 199px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image20
+{
+   left: 67px;
+   top: 298px;
+   width: 56px;
+   height: 56px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image21
+{
+   left: 66px;
+   top: 366px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image22
+{
+   left: 67px;
+   top: 423px;
+   width: 58px;
+   height: 58px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image23
+{
+   left: 69px;
+   top: 490px;
+   width: 56px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image24
+{
+   left: 66px;
+   top: 556px;
+   width: 57px;
+   height: 57px;
+   visibility: hidden;
+   display: none;
+   margin: 0;
+   padding: 0;
+}
+}
